@@ -16,7 +16,7 @@ When computers were first invented, they were used only by governmental organisa
 
 Being raised by white-collared parents, I've studied Business up to Certificate 4 of TAFE level and worked usually in an office environment and rarely in field areas. I've always had a plan to turn my childhood passion into skills but didn't have the spare time. During the unfortunate events of 2020, I was able to find the opportunity to immerse myself in the world of IT and I observed that from now on, people and organisations will be more involved with smartphones and computers.
 
-I was usually educated in classrooms however, with the procedures of the pandemic the only available method for me to study was online. I've met the Royal Melbourne Institute of Technology through Open Universities Australia. After making research on the web, I learned that despite being young, RMIT is a research university that quickly climbed up through the list of top universities in Oceania and the world. (1,2) Reading public reviews of people who studied and graduated from RMIT also encouraged me to choose it.
+I was usually educated in classrooms however, with the procedures of the pandemic the only available method for me to study was online. I've met the Royal Melbourne Institute of Technology through Open Universities Australia. After making research on the web, I learned that despite being young, RMIT is a research university that quickly climbed up through the list of top universities in Oceania and the world. (1) Reading public reviews of people who studied and graduated from RMIT also encouraged me to choose it.
 
 The Bachelor's of IT provided by RMIT enables a student to become knowledgeable and capable in a wide area of the world of computers. Information Technology is a broad field and I aim to learn every subject to the best of my abilities to become a self-sufficient and productive IT expert.
 
@@ -24,9 +24,9 @@ After graduation, I aim to work with relevant individuals and companies to gain 
 
 Besides IT, I enjoy reading about cosmology. I'm learning about physics, astronomy, astrophysics as much as I can to become an academician like Max Tegmark(3). I dream to participate in software development projects that can simulate the universe and expand our knowledge about it.
 
-1,2 https://www.timeshighereducation.com/world-university-rankings/rmit-university
+(1) https://www.timeshighereducation.com/world-university-rankings/rmit-university
 
-3 https://en.wikipedia.org/wiki/Max_Tegmark
+(2) https://en.wikipedia.org/wiki/Max_Tegmark
 
 ### Ideal Job
 
