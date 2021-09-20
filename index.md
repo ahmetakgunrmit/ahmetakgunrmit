@@ -1,4 +1,6 @@
-## Ahmet Akgun - s3865010
+
+## About Me
+Ahmet Akgun - s3865010
 S3865010@student.rmit.edu.au
 
 ![pic2](https://user-images.githubusercontent.com/90659029/133961142-93dbbbab-ef74-43a0-b3e0-c6684e3a4d3b.jpg)
@@ -34,7 +36,8 @@ As a mature age student, I intend to undertake a master's degree after bachelors
 
 https://www.indeed.com/viewjob?jk=659fd2e50ff2fe8b&tk=1ffoovrj1p13n800&from=serp&vjs=3
 
-![job2](https://user-images.githubusercontent.com/90659029/133961778-64a94136-9b80-4c8f-b5ca-02f080048547.jpeg)
+![job2](https://user-images.githubusercontent.com/90659029/133963171-7dd2e8bf-620b-40cf-9ce5-70c47ecca5f1.jpg)
+
 
 The Master's degree in Information Technology or Computer Science is a clear indication of the high expertise necessary to undertake this job. Clear communication and effective teaching skills is also required to provide an education with precision. Obtaining three refference letters from different proffesional refferees would be able only after working in the relevant field and raising succesful students.
 
